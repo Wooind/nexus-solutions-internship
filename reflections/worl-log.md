@@ -187,3 +187,48 @@ Today I gained a better understanding of how Git and GitHub work together for ve
 
 - Wrote a professional setup confirmation email.
 - Communicated completed tasks clearly and professionally.
+
+---
+
+## Day 4 — July 9, 2026
+
+### Objective
+
+Learn and apply a professional Git workflow by using feature branches and Pull Requests to safely manage changes in the internship repository.
+
+### Tasks Completed
+
+- Created the `feature/add-nexus-overview` feature branch.
+- Created the `docs/` folder and added `nexus-overview.md`.
+- Committed and pushed changes to the feature branch.
+- Created the first Pull Request with a professional title and description.
+- Successfully merged the first Pull Request into the `main` branch.
+- Created the `feature/update-task-board` feature branch.
+- Updated the internship task board to reflect current progress.
+- Committed and pushed the task board changes.
+- Created the second Pull Request with a professional title and description.
+- Successfully merged the second Pull Request into the `main` branch.
+- Switched back to the local `main` branch and synchronized the repository using `git pull` after each merge.
+- Verified repository history using `git log --oneline`.
+
+### Skills Practiced
+
+- Git Branching
+- Feature Branch Workflow
+- Pull Requests
+- Repository Synchronization
+- GitHub Collaboration
+- Version Control
+- Markdown Documentation
+
+### Blockers
+
+- Initially found it challenging to understand how branches, commits, pushes, Pull Requests, and merges were connected. After completing both feature branch workflows, I developed a clear understanding of how professional teams safely collaborate using Git and GitHub.
+
+### Reflection
+
+Today's activities gave me a much deeper understanding of how Git and GitHub are used in real software development teams. I learned that feature branches allow developers to work independently without affecting the main branch, while Pull Requests provide a structured way to review and merge changes. Completing two complete Git workflows—from creating feature branches to merging Pull Requests and synchronizing my local repository—significantly increased my confidence in using Git for collaborative software development.
+
+### Next Goal
+
+- Begin Day 5: HTML & CSS Review.
