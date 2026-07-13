@@ -2,8 +2,7 @@
 
 **Industry:** IT Services and Consulting
 **Location:** Cebu, Philippines
-**Size:** Mid-sized (75–150 employees)
-**Founded:** 2015
+**Size:** Mid-sized (75–200 employees)
 
 ## What We Do
 
