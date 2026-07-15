@@ -8,23 +8,21 @@
 ## Email 1 — Status Update to Supervisor
 
 **To:** Maria Santos  
-**Subject:** Development Environment Setup Completed and GitHub Repository Ready
+**Subject:** Development Environment Setup Completed — Ready for Review
 
 Dear Ms. Santos,
 
-I would like to provide a quick update on last week's onboarding tasks.
+I have completed my development environment setup and prepared my GitHub repository as requested. **Could you please review the repository and let me know if there are any changes or improvements you would like me to make?**
 
-I have completed the development environment setup and confirmed that all required tools are working correctly. My GitHub repository has also been organized with the project structure, work log, and supporting documentation.
+The repository includes the project structure, work log, task board, and setup documentation. You can access it using the GitHub link I previously shared.
 
-The repository is available through the GitHub link I previously shared. Please let me know if you would like me to make any improvements or add additional documentation.
-
-This week, I am focusing on learning our development workflow and completing the next onboarding assignments.
+I am now moving on to this week's onboarding tasks, including learning our development workflow and strengthening my Git collaboration skills.
 
 Thank you for your guidance.
 
 Kind regards,
 
-**Dave Hoyohoy**  
+**Dave Reyes**  
 Junior Systems Analyst Intern  
 Nexus Solutions
 
@@ -37,17 +35,17 @@ Nexus Solutions
 
 Dear Mr. Cruz,
 
-I am reviewing how Nexus Solutions manages database backups for client systems. I have read the available documentation and compared it with the current project resources, but some of the information appears to be outdated.
+Could we schedule a 15-minute discussion regarding Nexus Solutions' database backup process?
 
-Could we schedule a 15-minute discussion so I can clarify the current backup process, storage strategy, and tools being used?
+I reviewed the available documentation and compared it with the current project resources, but some sections appear to be outdated. I would like to clarify the current backup schedule, storage strategy, and tools used so I can understand the process correctly.
 
-I am available tomorrow between **10:00 AM and 12:00 PM**, but I am happy to meet at another time that works better for you.
+I am available tomorrow between **10:00 AM and 12:00 PM**, but I am happy to adjust to a time that is more convenient for you.
 
-Thank you for your time. I appreciate your guidance.
+Thank you for your time and guidance.
 
 Best regards,
 
-**Dave Hoyohoy**  
+**Dave Reyes**  
 Junior Systems Analyst Intern  
 Nexus Solutions
 
@@ -56,40 +54,17 @@ Nexus Solutions
 ## Email 3 — Professional Follow-up
 
 **To:** James Uy  
-**Subject:** Follow-up on Internal Project Tracker Access Request
+**Subject:** Follow-up on July 10 Project Tracker Access Request
 
 Dear Mr. Uy,
 
-I am following up on my request for access to the internal project tracker that I sent five days ago.
+I am following up on my **July 10** request for access to the internal project tracker.
 
-When you have a chance, could you let me know the status of my access request? Access to the tracker will allow me to stay aligned with the team's tasks and ongoing work.
+When you have a chance, could you let me know the status of the request? Access to the tracker will help me stay aligned with the team's tasks and ongoing project activities.
 
-If you need any additional information from me to complete the request, please let me know.
+If you need any additional information from me to process the request, I would be happy to provide it.
 
-Thank you for your time, and I look forward to your response.
-
-Kind regards,
-
-**Dave Hoyohoy**  
-Junior Systems Analyst Intern  
-Nexus Solutions
-
----
-
-## Email 4 — Delivering Bad News Professionally
-
-**To:** Maria Santos  
-**Subject:** Revised Timeline for HR Process Flowchart
-
-Dear Ms. Santos,
-
-I would like to update you on the HR process flowchart that was scheduled for completion today.
-
-While working on the flowchart, I encountered a technical issue that prevented me from completing it on time. I have resolved part of the issue, but I need additional time to verify the workflow and ensure the final version is accurate and complete.
-
-I take responsibility for the delay and have adjusted my schedule to prioritize this task. I will submit the completed process flowchart by **July 17, 2026**.
-
-Thank you for your understanding. Please let me know if this revised timeline affects any upcoming work or if you would prefer an interim progress update.
+Thank you for your time. I look forward to your response.
 
 Kind regards,
 
